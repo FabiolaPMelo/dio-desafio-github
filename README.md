@@ -1,5 +1,5 @@
-# Repositório do Desafio do Projeto sobre Git/Github da dio
-Primeiro desafio de Projeto 
+# Desafio do Projeto sobre Git/Github da dio
+ Repositório criado para o Primeiro desafio de Projeto 
 
-##Links úteis
+## Links úteis
 [Guia Markdown](https://www.markdownguide.org/)
